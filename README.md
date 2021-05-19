@@ -31,8 +31,9 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 4. 'sql' contains the database file that has to be imported.
 
 ##  Team:
-- Rajeev Singla - [Rajeev](https://www.linkedin.com/in/rajeev-singla-378a94153/)
 - Bhawika Arora - [Bhawika](https://www.linkedin.com/in/bhawika-arora-76b198183/)
+- Rajeev Singla - [Rajeev](https://www.linkedin.com/in/rajeev-singla-378a94153/)
+
 
 ## If you liked the project and found it helpful
 Give a start 😄:star:
