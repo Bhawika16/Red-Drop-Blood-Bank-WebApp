@@ -30,11 +30,19 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 3. 'image' and 'jastimage' contains images used in the front end.
 4. 'sql' contains the database file that has to be imported.
 
-##  Team:
-- Bhawika Arora - [Bhawika](https://www.linkedin.com/in/bhawika-arora-76b198183/)
+## Team:
 - Rajeev Singla - [Rajeev](https://www.linkedin.com/in/rajeev-singla-378a94153/)
-
+- Bhawika Arora - [Bhawika](https://www.linkedin.com/in/bhawika-arora-76b198183/)
 
 ## If you liked the project and found it helpful
 Give a start 😄:star:
 
+## If you want to run on Local Server XAMPP
+Change the file/connection code to -
+...
+
+```php
+<?php
+$conn=mysqli_connect('localhost','root','') or die('Cannot connect to server');
+mysqli_select_db($conn,'bloodbank') or die ('Cannot found database');
+?>
